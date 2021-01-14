@@ -1,19 +1,13 @@
 ### Hi there 👋
 
-<!--
-**willyii/willyii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](img/header)
 
-Here are some ideas to get you started:
+- 💻 Interested in C++, Computer Graphic and AI. Vim lover
+- 📚 I’m currently CS Master student in UC Riverside
+- 🎓 I’m going to graduate this March and will join Citrix on May
+- 📈 I’m currently working on polynomial root isolation project
+- 📫 How to reach me: xinlong1996@gmail.com
+- ⚡ Fun fact: My favorite pokemon is slowbro
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-![](https://github-readme-stats.vercel.app/api?username=willyii)
+![](https://github-readme-stats.vercel.app/api?username=willyii&theme=dark)
 
