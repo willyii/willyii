@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](img/header)
+![](imgs/header.jpg)
 
 - 💻 Interested in C++, Computer Graphic and AI. Vim lover
 - 📚 I’m currently CS Master student in UC Riverside
