@@ -4,7 +4,7 @@
 
 - 💻 Interested in C++, Python, Computer Graphic and AI. Vim lover. 
 - 🎓 Graduate from UC Riverside with Master Degree. Major in CS.
-- 💼 Upcoming SDE 2 @Citrix
+- 💼 SDE @Google
 - 📫 How to reach me: xinlong1996@gmail.com
 - ⚡ Fun fact: My favorite pokemon is Slowbro. But my favorite comic book is Dragon
   Ball.
